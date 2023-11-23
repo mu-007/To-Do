@@ -116,6 +116,7 @@ class _HomeState extends State<Home> {
                   child: const Text(
                     '+',
                     style: TextStyle(
+                      color: Colors.white,
                       fontSize: 40,
                     ),
                   ),
